@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: whitesmoke;
+}
+header{
+    width: 100%;
+    height: 50px;
+    font-style: italic;
+    font-size: medium;
+    color: rgb(71, 13, 13);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    border: 2px solid rgba(0, 0, 0, 0.537);
+    border-radius: 2px;
+}
+header ul{
+    display: flex;
+    margin: 20px;
+}
+header ul li{
+    color: rgb(71, 13, 13);
+    list-style: none;
+    margin-right: 30px;
+    font-size: large;
+}
+header ul li:hover{
+    color: goldenrod;
+}
+#banner{
+    background-image: url(https://th-i.thgim.com/public/incoming/s77q8i/article68130968.ece/alternates/FREE_1200/LOTMORE258.jpg);
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2{
+    width: 100%;
+    height: 700px;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.row{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.col{
+    position: absolute;
+    left: 50px;
+    width: 210px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    border-style: ridge;
+    padding: 10px;
+}   
+img{
+    width: 210px;
+    height:215px ;
+}
+.col2{
+    position: absolute;
+    left: 345px;
+    width: 210px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    border-style: ridge;
+    padding: 10px;
+}   
+img{
+    width: 210px;
+    height:215px ;
+}
+.col3{
+    position: absolute;
+    left: 640px;
+    width: 210px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    border-style: ridge;
+    padding: 10px;
+}   
+img{
+    width: 210px;
+    height:215px ;
+}
+.col4{
+    position: absolute;
+    left: 935px;
+    width: 210px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    border-style: ridge;
+    padding: 10px;
+}   
+img{
+    width: 210px;
+    height:215px ;
+}
+.col5{
+    position: absolute;
+    left: 1230px;
+    width: 210px;
+    height: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    border-style: ridge;
+    padding: 10px;
+}   
+img{
+    width: 210px;
+    height:215px ;
+}
